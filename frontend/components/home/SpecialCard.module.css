@@ -1,0 +1,18 @@
+.root {
+  background: #9fe8ff;
+}
+
+.card1 {
+  filter: drop-shadow(5px 8px 20px rgba(121, 0, 94, 0.1));
+  border-radius: 30px;
+}
+
+.card2 {
+  /* background-color: #9fe8ff; */
+  background: linear-gradient(
+    270deg,
+    #ffffff 0.43%,
+    rgba(255, 255, 255, 0) 66.87%
+  );
+  
+}

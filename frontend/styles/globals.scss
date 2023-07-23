@@ -1,0 +1,16 @@
+@import url("./fonts/stylesheet.css");
+@import 'buttons';
+@import 'fonts';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#tsparticles {
+  width: 100%;
+  height: 90vh;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+}

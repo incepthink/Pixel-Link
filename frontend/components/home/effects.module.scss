@@ -1,0 +1,44 @@
+  .glowingDotSmall {
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background-color: #fff;
+    opacity: 0.4;
+    box-shadow:
+      0 0 60px 20px rgb(214, 214, 214),
+      0 0 140px 70px #41d3ff;
+  }
+
+  .glowingDotBig {
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background-color: #fff;
+    opacity: 0.4;
+    box-shadow:
+      0 0 60px 20px rgb(214, 214, 214),
+      0 0 140px 100px #41d3ff;
+  }
+
+  .glowingDotSmallStrong {
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background-color: #fff;
+    opacity: 0.6;
+    box-shadow:
+      0 0 60px 20px rgb(214, 214, 214),
+      0 0 140px 70px #41d3ff;
+  }
+
+  .glowingDotPinkSmall {
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background-color: #fff;
+    opacity: 0.5;
+    box-shadow:
+      0 0 60px 20px rgb(214, 214, 214),
+      0 0 140px 70px #FB37FF;
+      ;
+  }

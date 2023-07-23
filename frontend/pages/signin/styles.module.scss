@@ -1,0 +1,4 @@
+.signInButton {
+    @apply w-full mt-12 text-white text-lg p-3 px-8 border-[1px] border-custom-blue bg-custom-blue/20 rounded-sm flex justify-between;
+    @apply transition-all  hover:bg-custom-blue/40 ease-out
+}

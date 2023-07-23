@@ -1,0 +1,22 @@
+.button {
+    background: linear-gradient(
+      135deg,
+      #40d8ff 0%,
+      #14bae3 19.24%,
+      #13b1e6 68.64%,
+      #11aadf 81.77%,
+      #0b98c5 100%
+    );
+  
+    border: 0.72px solid;
+  
+    border-image-source: linear-gradient(
+      94.26deg,
+      #ffffff -6.12%,
+      rgba(75, 223, 255, 0.31) 133.46%
+    );
+  }
+
+  .manropeFont {
+    font-family: 'Manrope', sans-serif;
+}

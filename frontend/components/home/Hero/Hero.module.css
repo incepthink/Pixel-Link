@@ -1,0 +1,64 @@
+.strBtn {
+  background: linear-gradient(
+    135deg,
+    #40ffa6 0%,
+    #14e382 19.24%,
+    #13e66b 68.64%,
+    #11df6e 81.77%,
+    #0bc587 100%
+  );
+
+  border: 0.72px solid;
+
+  border-image-source: linear-gradient(
+    94.26deg,
+    #ffffff -6.12%,
+    rgba(75, 223, 255, 0.31) 133.46%
+  );
+}
+
+
+.arcadeFont {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.heroButton {
+  font-family: 'Press Start 2P', cursive;
+  width: 240px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  height: 60px;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 5px;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.heroButton:hover {
+  background-position: 100% 0;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.heroButton:focus {
+  outline: none;
+}
+
+.heroButton {
+  background-image: linear-gradient(
+    to right,
+    #25e15d,
+    #44ebab,
+    #04fe43,
+    #53ed3f
+  );
+  box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+}

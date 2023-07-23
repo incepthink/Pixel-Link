@@ -1,0 +1,11 @@
+Nft Apparel Colletion = 0x61f7E2e2B654E5a02d7b1F18505c90A77DCE461A
+1. https://gateway.pinata.cloud/ipfs/QmbiYckHarrHGQKQEp4m5WRq9CWuRJyLCP7PuE6uzZcgYZ/green%20hoodieClaimed.jpg
+2. https://gateway.pinata.cloud/ipfs/QmbiYckHarrHGQKQEp4m5WRq9CWuRJyLCP7PuE6uzZcgYZ/green%20hoodie.jpg
+3. https://gateway.pinata.cloud/ipfs/QmbiYckHarrHGQKQEp4m5WRq9CWuRJyLCP7PuE6uzZcgYZ/incepthinkteeClaimed.jpg
+4. https://gateway.pinata.cloud/ipfs/QmbiYckHarrHGQKQEp4m5WRq9CWuRJyLCP7PuE6uzZcgYZ/incepthinktee.jpg
+
+NFT Signable = 0xEa8158cc97D7543C55E5663740e9AeC415d25134
+x.  json
+    img
+1.  https://gateway.pinata.cloud/ipfs/QmcUy8Yd8whQauDEX1ggXP98eNen6PUKdbwyvsz5kdP9zz 
+    https://gateway.pinata.cloud/ipfs/QmY9E24HgjsfqFEMgnnzrFeLCHaViEvuj6cpxKTDnwqj5d
